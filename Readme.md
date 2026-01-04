@@ -60,7 +60,7 @@ Due to dataset size and structure, careful preprocessing and augmentation are ap
 
 Below is an example of a retinal fundus image and its corresponding ground truth vessel mask.
 
-[Dataset Sample] <img width="2000" height="800" alt="dataset_sample" src="https://github.com/user-attachments/assets/69df8342-733d-4852-b047-84c2cc01b9bc" />
+<img width="2000" height="800" alt="dataset_sample" src="https://github.com/user-attachments/assets/69df8342-733d-4852-b047-84c2cc01b9bc" />
 
 
 ---
@@ -106,7 +106,7 @@ All models were trained using the same preprocessing steps and evaluation protoc
 
 The figure below shows an example of image preprocessing and augmentation applied during training.
 
-![Preprocessing Example] <img width="2000" height="800" alt="preprocessing_example" src="https://github.com/user-attachments/assets/1e469b73-8a69-409c-aa4c-6e51de51c784" />
+[Preprocessing Example] <img width="2000" height="800" alt="preprocessing_example" src="https://github.com/user-attachments/assets/1e469b73-8a69-409c-aa4c-6e51de51c784" />
 
 ---
 
