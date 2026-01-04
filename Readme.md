@@ -56,6 +56,13 @@ Dataset sources:
 
 Due to dataset size and structure, careful preprocessing and augmentation are applied to improve generalization.
 
+### Dataset (Visual Example)
+
+Below is an example of a retinal fundus image and its corresponding ground truth vessel mask.
+
+[Dataset Sample] <img width="2000" height="800" alt="dataset_sample" src="https://github.com/user-attachments/assets/69df8342-733d-4852-b047-84c2cc01b9bc" />
+
+
 ---
 
 ## Models Implemented
@@ -97,6 +104,10 @@ These metrics are commonly used in medical image segmentation to assess overlap 
 
 All models were trained using the same preprocessing steps and evaluation protocol to ensure a fair comparison.
 
+The figure below shows an example of image preprocessing and augmentation applied during training.
+
+![Preprocessing Example] <img width="2000" height="800" alt="preprocessing_example" src="https://github.com/user-attachments/assets/1e469b73-8a69-409c-aa4c-6e51de51c784" />
+
 ---
 
 ## Results Summary
@@ -135,7 +146,6 @@ High-level workflow of the project:
 - Segmentation output generation  
 - Metric evaluation  
 
-You can add a short GIF here showing the notebook execution or prediction pipeline.
 
 ---
 
